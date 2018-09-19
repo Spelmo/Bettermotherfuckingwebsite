@@ -4,7 +4,7 @@ function Popup(){
     window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ/");
   }
 }
-document.onload = setTimeout(Popup(), 1000);
+document.onload = setTimeout(Popup(), 10000);
 
 
 function psychedelic(){
