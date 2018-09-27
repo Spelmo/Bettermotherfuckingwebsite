@@ -1,4 +1,4 @@
-document.onload = setTimeout(Popup(), 10000);
+document.onload = setTimeout(Popup(), 1000);
 
 function Popup(){
   var r = window.confirm("Hey le site xxxvidsxxx est trop bien. Veux-tu aller sur le site?");
